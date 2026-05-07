@@ -29,4 +29,4 @@ def pick_and_delete_random_column(file_path):
         print(f"Ein Fehler ist aufgetreten: {e}")
 
 # Beispielaufruf
-pick_and_delete_random_row('meine_liste.xlsx')
+pick_and_delete_random_row('meine_liste.csv')
